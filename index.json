@@ -288,14 +288,20 @@
         "duration": "01:542:31",
         "youtubeLink": "https://www.youtube.com/watch?v=I2UBjN5ER4s"
     },
-    {
+     {
         "id": 32,
+        "projectName": "Notes App",
+        "languages": "kotlin",
+        "platform": "YouTube",
+        "duration": "02:48:35",
+        "youtubeLink": "https://youtu.be/_9n9OpcyE60"
+     },
+    {
+        "id": 33,
         "projectName": "Machine learning API using fast API [ML/AI API Tutorial]",
         "languages": "Python",
         "platform": "YouTube",
         "duration": "24:17",
         "youtubeLink": "https://www.youtube.com/watch?v=La1HAYI1j30"
     }
-
-    
 ]
