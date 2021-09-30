@@ -277,6 +277,14 @@
         "platform": "YouTube",
         "duration": "01:542:31",
         "youtubeLink": "https://www.youtube.com/watch?v=I2UBjN5ER4s"
+    },
+     {
+        "id": 32,
+        "projectName": "Notes App",
+        "languages": "kotlin",
+        "platform": "YouTube",
+        "duration": "02:48:35",
+        "youtubeLink": "https://youtu.be/_9n9OpcyE60"
     }
     
 ]
