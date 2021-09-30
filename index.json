@@ -261,17 +261,9 @@
         "platform":"YouTube",
         "duration": "00:58:47",
         "youtubeLink": "https://youtu.be/Lp9Ftuq2sVI"
-    }
-    {
-        "id": 27,
-        "projectName": "LIBRARY MANAGEMENT SYSTEM",
-        "languages": "CPP",
-        "platform": "YouTube",
-        "duration": "10.47",
-        "youtubeLink": "https://youtu.be/vJ5kQleNFZE"
     },
     {
-        "id": 28,
+        "id": 30,
         "projectName": "Build an AI - Powered Voice Assistant Flutter Radio App",
         "languages": "Dart",
         "platform": "YouTube",
