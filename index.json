@@ -247,12 +247,20 @@
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
     },
     {
-        "id": 27,
+        "id": 28,
         "projectName": "Library Management System in web",
         "languages": "php,mysql,html, css",
         "platform":"YouTube",
         "duration": "03:10:31",
         "youtubeLink": "https://youtu.be/BAtYQZxpmhs"
+    },
+       {
+        "id": 29,
+        "projectName": "jarvice Artificial Intelligence system",
+        "languages": "python",
+        "platform":"YouTube",
+        "duration": "00:58:47",
+        "youtubeLink": "https://youtu.be/Lp9Ftuq2sVI"
     }
    
 ]
