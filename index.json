@@ -201,8 +201,17 @@
         "projectName": "Vaccine Management System",
         "languages": "CPP",
         "platform": "YouTube",
-        "duration": "00:13:47",
-        "youtubeLink": "https://youtu.be/Ve5wrjvDs"
+        "duration": "1:51:55",
+        "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
+    },
+    
+    {
+        "id": 23,
+        "projectName": "Scientific Calculate",
+        "languages": "Java",
+        "platform": "YouTube",
+        "duration": "3hrs",
+        "youtubeLink": "https://www.youtube.com/watch?v=1ssYYy8Li48"
     },
     {
         "id": 24,
@@ -228,7 +237,6 @@
         "platform": "YouTube",
         "duration": "10.47",
         "youtubeLink": "https://youtu.be/vJ5kQleNFZE"
-
     },
   {
         "id": 27,
@@ -237,6 +245,6 @@
         "platform":"YouTube",
         "duration": "00:38:19",
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
-    },
+    }
    
 ]
