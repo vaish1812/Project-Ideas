@@ -247,6 +247,16 @@
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
     },
     {
+
+        "id": 26,
+        "projectName": "Music Player App",
+        "languages": "Java",
+        "platform":"YouTube",
+        "duration": "00:49:31",
+        "youtubeLink": "https://www.youtube.com/watch?v=49eeLxc6xE4"
+    }
+
+
         "id": 28,
         "projectName": "Library Management System in web",
         "languages": "php,mysql,html, css",
@@ -285,6 +295,13 @@
         "platform": "YouTube",
         "duration": "02:48:35",
         "youtubeLink": "https://youtu.be/_9n9OpcyE60"
+     },
+    {
+        "id": 33,
+        "projectName": "Machine learning API using fast API [ML/AI API Tutorial]",
+        "languages": "Python",
+        "platform": "YouTube",
+        "duration": "24:17",
+        "youtubeLink": "https://www.youtube.com/watch?v=La1HAYI1j30"
     }
-    
 ]
