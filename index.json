@@ -196,6 +196,15 @@
         "platform": "YouTube",
         "duration": "1:51:55",
         "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
+    },
+    
+    {
+        "id": 23,
+        "projectName": "Scientific Calculate",
+        "languages": "Java",
+        "platform": "YouTube",
+        "duration": "3hrs",
+        "youtubeLink": "https://www.youtube.com/watch?v=1ssYYy8Li48"
     }
 
 ]
