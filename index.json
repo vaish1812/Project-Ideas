@@ -230,8 +230,13 @@
         "duration": "10.47",
         "youtubeLink": "https://youtu.be/vJ5kQleNFZE"
 
-    }
-    
-
-
+    },
+  {
+        "id": 26
+        "projectName": "Calculator",
+        "languages": "JavaScript",
+        "platform":"YouTube",
+        "duration": "00:38:19",
+        "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+    },
 ]
