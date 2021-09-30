@@ -188,25 +188,33 @@
         "duration": "0:24:00",
         "youtubeLink": "https://youtu.be/GTWrWM1UsnA"
     },
-    
     {
         "id": 22,
-        "projectName": "Build your first App in React Native in under 2 hours [ Tutorial for beginners ]",
-        "languages": "React Native",
+        "projectName": "Rat in a Maze",
+        "languages": "java",
         "platform": "YouTube",
-        "duration": "1:51:55",
-        "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
+        "duration": "0:24:00",
+        "youtubeLink": "https://www.youtube.com/watch?v=axUVeNtbmAw"
     },    
     {
-        "id": 25,
+        "id": 23,
         "projectName": "Vaccine Management System",
         "languages": "CPP",
         "platform": "YouTube",
-        "duration": "00:13:47",
-        "youtubeLink": "https://youtu.be/Ve5wrjvDs"
+        "duration": "1:51:55",
+        "youtubeLink": "https://www.youtube.com/watch?v=iQ_0Fd_N3Mk"
     },
+    
     {
         "id": 23,
+        "projectName": "Scientific Calculate",
+        "languages": "Java",
+        "platform": "YouTube",
+        "duration": "3hrs",
+        "youtubeLink": "https://www.youtube.com/watch?v=1ssYYy8Li48"
+    },
+    {
+        "id": 24,
         "projectName": "Build A Calculator With JavaScript Tutorial",
         "languages": "JavaScript",
         "platform": "YouTube",
@@ -214,7 +222,7 @@
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
     },
     {
-        "id": 24,
+        "id": 25,
         "projectName": "Make a Clock using Python",
         "languages": "Python",
         "platform": "YouTube",
@@ -223,7 +231,15 @@
 
     },
     {
-        "id": 25,
+        "id": 26,
+        "projectName": "LIBRARY MANAGEMENT SYSTEM",
+        "languages": "CPP",
+        "platform": "YouTube",
+        "duration": "10.47",
+        "youtubeLink": "https://youtu.be/vJ5kQleNFZE"
+    },
+  {
+        "id": 27,
         "projectName": "Calculator",
         "languages": "JavaScript",
         "platform":"YouTube",
@@ -231,6 +247,7 @@
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
     },
     {
+
         "id": 26,
         "projectName": "Music Player App",
         "languages": "Java",
@@ -240,4 +257,36 @@
     }
 
 
+        "id": 28,
+        "projectName": "Library Management System in web",
+        "languages": "php,mysql,html, css",
+        "platform":"YouTube",
+        "duration": "03:10:31",
+        "youtubeLink": "https://youtu.be/BAtYQZxpmhs"
+    },
+       {
+        "id": 29,
+        "projectName": "jarvice Artificial Intelligence system",
+        "languages": "python",
+        "platform":"YouTube",
+        "duration": "00:58:47",
+        "youtubeLink": "https://youtu.be/Lp9Ftuq2sVI"
+    },
+    {
+        "id": 30,
+        "projectName": "Build an AI - Powered Voice Assistant Flutter Radio App",
+        "languages": "Dart",
+        "platform": "YouTube",
+        "duration": "01:57:31",
+        "youtubeLink": "https://www.youtube.com/watch?v=p4xh7zTt6i0"
+    },
+    {
+        "id": 31,
+        "projectName": "React Website Tutorial - Beginner React JS Project Fully Responsive",
+        "languages": "React",
+        "platform": "YouTube",
+        "duration": "01:542:31",
+        "youtubeLink": "https://www.youtube.com/watch?v=I2UBjN5ER4s"
+    }
+    
 ]
