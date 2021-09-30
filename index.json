@@ -245,6 +245,14 @@
         "platform":"YouTube",
         "duration": "00:38:19",
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+    },
+    {
+        "id": 27,
+        "projectName": "Library Management System in web",
+        "languages": "php,mysql,html, css",
+        "platform":"YouTube",
+        "duration": "03:10:31",
+        "youtubeLink": "https://youtu.be/BAtYQZxpmhs"
     }
    
 ]
