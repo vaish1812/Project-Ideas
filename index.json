@@ -269,5 +269,14 @@
         "platform": "YouTube",
         "duration": "01:57:31",
         "youtubeLink": "https://www.youtube.com/watch?v=p4xh7zTt6i0"
+    },
+    {
+        "id": 31,
+        "projectName": "React Website Tutorial - Beginner React JS Project Fully Responsive",
+        "languages": "React",
+        "platform": "YouTube",
+        "duration": "01:542:31",
+        "youtubeLink": "https://www.youtube.com/watch?v=I2UBjN5ER4s"
     }
+    
 ]
