@@ -230,7 +230,14 @@
         "duration": "00:38:19",
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
     },
-    
+    {
+        "id": 26,
+        "projectName": "Music Player App",
+        "languages": "Java",
+        "platform":"YouTube",
+        "duration": "00:49:31",
+        "youtubeLink": "https://www.youtube.com/watch?v=49eeLxc6xE4"
+    }
 
 
 ]
