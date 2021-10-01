@@ -297,12 +297,32 @@
     
     {
         "id": 34,
-        "projectName": "Personal Portfolio Website",
-        "languages": "HTML , CSS , JS",
+        "projectName": "Jarvis",
+        "languages": "Python",
         "platform": "YouTube",
-        "duration": "1:59:19",
-        "youtubeLink": "https://youtu.be/tcskp-ncN0I"
-    }
+        "duration": "58:47",
+        "youtubeLink": "https://www.youtube.com/watch?v=Lp9Ftuq2sVI"
+     },
+    {
+        "id": 35,
+        "projectName": "Pac Man",
+        "languages": "Javascript",
+        "platform": "YouTube",
+        "duration": "1:42:34",
+        "youtubeLink": " https://youtu.be/YBtzzVwrTeE"
+    },
+  
+      {
+        "id": 36,
+        "projectName":"Todo App",
+        "languages":"Python",
+        "platform":"YouTube",
+        "duration":"42:56",
+        "youtubeLink":"https://www.youtube.com/watch?v=yKHJsLUENl0"
+     }
+
+
     
     
+   
 ]
