@@ -397,13 +397,21 @@
         "youtubeLink": "https://youtu.be/3nQzoLtClUY"
    
   },
-{
+ {
         "id": 43,
         "projectName": "Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021",
         "languages": "React JS",
         "platform":"YouTube",
         "duration": "8:43:33",
         "youtubeLink": "https://www.youtube.com/watch?v=RDV3Z1KCBvo"
+  },
+{
+        "id": 44,
+        "projectName": "Rock Paper Scissor",
+        "languages": "C++",
+        "platform":"YouTube",
+        "duration": "39:08",
+        "youtubeLink": "https://www.youtube.com/watch?v=RKpuLwmZcTE"
  
 
   }
