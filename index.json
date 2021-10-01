@@ -285,7 +285,7 @@
         "platform": "YouTube",
         "duration": "28:08",
         "youtubeLink": "https://youtu.be/ADsL9ZviiJM"
-    }
+    },
     
     
 
@@ -296,6 +296,14 @@
         "platform":"YouTube",
         "duration": "03:43:50",
         "youtubeLink": "https://youtu.be/sIRcN0MeZVU"
+    },
+    {
+        "id": 27,
+        "projectName": "Bank Management System",
+        "languages": "C++",
+        "platform":"YouTube",
+        "duration": "36:30",
+        "youtubeLink": "https://youtu.be/6OSVutwm_Uk"
     }
     
 
