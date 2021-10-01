@@ -450,7 +450,13 @@
         "platform": "YouTube",
         "duration": "1:15:18",
         "youtubeLink": "https://www.youtube.com/watch?v=Ttf3CEsEwMQ"
+    },
+{
+        "id": 51,
+        "projectName": "Netflix clone",
+        "languages": "React JS",
+        "platform": "YouTube",
+        "duration": "3:22:44",
+        "youtubeLink": "https://youtu.be/XtMThy8QKqU"
     }
-
-
 ]
