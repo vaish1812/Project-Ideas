@@ -406,6 +406,13 @@
         "youtubeLink": "https://www.youtube.com/watch?v=6OSVutwm_Uk"
  
 
-  }
-
+  },
+{
+        "id": 45,
+        "projectName": "Learn how to build a professional website",
+        "languages": "HTML5, CSS3, Javascript",
+        "platform": "Youtube",
+        "duration": "1:38:51",
+        "youtubeLink": "https://youtu.be/5bMdjkfvONE"
+ }
 ]
