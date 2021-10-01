@@ -317,8 +317,6 @@
         "youtubeLink": "https://www.youtube.com/watch?v=Fa5egLurW5U&list=PLcSIMAULmMyd-d2gp50C-fPfnzCB523mZ&index=15"
     },
 
-
-    
      {
         "id": 35,
         "projectName": "University Management System",
@@ -357,20 +355,9 @@
         "youtubeLink": "https://www.youtube.com/watch?v=TFgVObJ1u1k"
     
     
-
-  },{
-        "id": 39,
-        "projectName": "Javascript Calculator",
-        "languages": "Javascript",
-        "platform":"YouTube",
-        "duration": "10",
-        "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
-
   },
 {
-        "id": 40,
-
-
+        "id": 39,
         "projectName": "Health Management System",
         "languages": "Python",
         "platform":"YouTube",
@@ -380,7 +367,7 @@
     
   },
 {
-         "id": 41,
+         "id": 40,
         "projectName": "Password Login System",
         "languages": "JAVASCRIPT / NODE",
         "platform":"YouTube",
@@ -389,7 +376,7 @@
 },
     
   { 
-        "id": 42,
+        "id": 41,
         "projectName": "Car Rental System",
         "languages": "CPP",
         "platform":"YouTube",
@@ -397,8 +384,10 @@
         "youtubeLink": "https://youtu.be/3nQzoLtClUY"
    
   },
- {
-        "id": 43,
+
+
+{
+        "id": 42,
         "projectName": "Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021",
         "languages": "React JS",
         "platform":"YouTube",
@@ -406,12 +395,32 @@
         "youtubeLink": "https://www.youtube.com/watch?v=RDV3Z1KCBvo"
   },
 {
-        "id": 44,
+        "id": 43,
         "projectName": "Rock Paper Scissor",
         "languages": "C++",
         "platform":"YouTube",
         "duration": "39:08",
         "youtubeLink": "https://www.youtube.com/watch?v=RKpuLwmZcTE"
+ 
+
+  },
+{
+        "id": 44,
+        "projectName": "Bank Management System with cpp",
+        "languages": "C++",
+        "platform":"Youtube",
+        "duration": "36:30",
+        "youtubeLink": "https://www.youtube.com/watch?v=6OSVutwm_Uk"
+ 
+
+  },
+{
+        "id": 45,
+        "projectName": "Build a Notes Taking Website",
+        "languages": "JavaScript",
+        "platform":"YouTube",
+        "duration": "57:57",
+        "youtubeLink": "https://youtu.be/kwgNsNhYcHo"
  
 
   }
