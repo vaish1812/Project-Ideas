@@ -357,9 +357,19 @@
         "youtubeLink": "https://www.youtube.com/watch?v=TFgVObJ1u1k"
     
     
+
+  },{
+        "id": 39,
+        "projectName": "Javascript Calculator",
+        "languages": "Javascript",
+        "platform":"YouTube",
+        "duration": "10",
+        "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
+
   },
 {
-        "id": 39,
+        "id": 40,
+
 
         "projectName": "Health Management System",
         "languages": "Python",
@@ -370,7 +380,7 @@
     
   },
 {
-         "id": 40,
+         "id": 41,
         "projectName": "Password Login System",
         "languages": "JAVASCRIPT / NODE",
         "platform":"YouTube",
@@ -379,7 +389,7 @@
 },
     
   { 
-        "id": 41,
+        "id": 42,
         "projectName": "Car Rental System",
         "languages": "CPP",
         "platform":"YouTube",
@@ -388,7 +398,7 @@
    
   },
 {
-        "id": 42,
+        "id": 43,
         "projectName": "Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021",
         "languages": "React JS",
         "platform":"YouTube",
