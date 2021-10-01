@@ -416,6 +416,14 @@
   },
 {
         "id": 45,
+        "projectName": "Learn how to build a professional website",
+        "languages": "HTML5, CSS3, Javascript",
+        "platform": "Youtube",
+        "duration": "1:38:51",
+        "youtubeLink": "https://youtu.be/5bMdjkfvONE"
+ },
+
+        "id": 46,
         "projectName": "Build a Notes Taking Website",
         "languages": "JavaScript",
         "platform":"YouTube",
@@ -424,5 +432,6 @@
  
 
   }
+
 
 ]
