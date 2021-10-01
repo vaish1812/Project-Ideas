@@ -293,6 +293,14 @@
         "platform": "YouTube",
         "duration": "53:47",
         "youtubeLink": "https://youtu.be/Sj5NX_br5WY"
+    },
+    {
+        "id": 34,
+        "projectName":"Todo App",
+        "languages":"Python",
+        "platform":"YouTube",
+        "duration":"42:56",
+        "youtubeLink":"https://www.youtube.com/watch?v=yKHJsLUENl0"
     }
     
     
