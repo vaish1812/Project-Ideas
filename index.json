@@ -442,6 +442,15 @@
         "platform": "YouTube",
         "duration": "14:14",
         "youtubeLink": "https://www.youtube.com/watch?v=OKgTV9uXrLg"
+    },
+{
+        "id": 50,
+        "projectName": "Todo List",
+        "languages": "JavaScript",
+        "platform": "YouTube",
+        "duration": "1:15:18",
+        "youtubeLink": "https://www.youtube.com/watch?v=Ttf3CEsEwMQ"
     }
+
 
 ]
