@@ -356,32 +356,10 @@
         "duration": "24.4",
         "youtubeLink": "https://www.youtube.com/watch?v=TFgVObJ1u1k"
     
- 
+    
   },
 {
-    
         "id": 39,
-        "projectName": "Health Care ChatBot",
-        "languages": "Python,HTML5,CSS",
-        "platform":"YouTube",
-        "duration": "27.17",
-        "youtubeLink": "https://www.youtube.com/watch?v=dUY5zrday6s"
-    
-},
-=======
-
-  },{
-        "id": 40,
-        "projectName": "Javascript Calculator",
-        "languages": "Javascript",
-        "platform":"YouTube",
-        "duration": "10",
-        "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
-
-  },
-{
-        "id": 41,
-
 
         "projectName": "Health Management System",
         "languages": "Python",
@@ -392,7 +370,7 @@
     
   },
 {
-         "id": 42,
+         "id": 40,
         "projectName": "Password Login System",
         "languages": "JAVASCRIPT / NODE",
         "platform":"YouTube",
@@ -401,7 +379,7 @@
 },
     
   { 
-        "id": 43,
+        "id": 41,
         "projectName": "Car Rental System",
         "languages": "CPP",
         "platform":"YouTube",
@@ -410,14 +388,24 @@
    
   },
 {
-        "id": 44,
+        "id": 42,
         "projectName": "Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021",
         "languages": "React JS",
         "platform":"YouTube",
         "duration": "8:43:33",
         "youtubeLink": "https://www.youtube.com/watch?v=RDV3Z1KCBvo"
+ 
+
+  },
+{
+        "id": 43,
+        "projectName": "Bank Management System with cpp",
+        "languages": "C++",
+        "platform":"Youtube",
+        "duration": "36:30",
+        "youtubeLink": "https://www.youtube.com/watch?v=6OSVutwm_Uk"
+ 
 
   }
-
 
 ]
