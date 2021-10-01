@@ -360,14 +360,33 @@
   },
 {
         "id": 39,
+
         "projectName": "Password Login System",
         "languages": "JAVASCRIPT / NODE",
         "platform":"YouTube",
         "duration": "36.27",
         "youtubeLink": "https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj&index=4"
+},
+    
+  { 
+        "id": 40,
+        "projectName": "Car Rental System",
+        "languages": "CPP",
+        "platform":"YouTube",
+        "duration": "10:47",
+        "youtubeLink": "https://youtu.be/3nQzoLtClUY"
     
     
-  }
+  },
+{
+        "id": 41,
+        "projectName": "Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021",
+        "languages": "React JS",
+        "platform":"YouTube",
+        "duration": "8:43:33",
+        "youtubeLink": "https://www.youtube.com/watch?v=RDV3Z1KCBvo"
+ 
 
+  }
 
 ]
