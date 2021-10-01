@@ -317,8 +317,6 @@
         "youtubeLink": "https://www.youtube.com/watch?v=Fa5egLurW5U&list=PLcSIMAULmMyd-d2gp50C-fPfnzCB523mZ&index=15"
     },
 
-
-    
      {
         "id": 35,
         "projectName": "University Management System",
@@ -355,11 +353,9 @@
         "platform":"YouTube",
         "duration": "24.4",
         "youtubeLink": "https://www.youtube.com/watch?v=TFgVObJ1u1k"
-    
-    
-
-  },{
-        "id": 39,
+  },
+{
+        "id": 40,
         "projectName": "Javascript Calculator",
         "languages": "Javascript",
         "platform":"YouTube",
@@ -367,10 +363,9 @@
         "youtubeLink": "https://www.youtube.com/watch?v=j59qQ7YWLxw"
 
   },
+
 {
-        "id": 40,
-
-
+        "id": 41,
         "projectName": "Health Management System",
         "languages": "Python",
         "platform":"YouTube",
@@ -380,7 +375,7 @@
     
   },
 {
-         "id": 41,
+         "id": 42,
         "projectName": "Password Login System",
         "languages": "JAVASCRIPT / NODE",
         "platform":"YouTube",
@@ -389,7 +384,7 @@
 },
     
   { 
-        "id": 42,
+        "id": 43,
         "projectName": "Car Rental System",
         "languages": "CPP",
         "platform":"YouTube",
@@ -397,23 +392,56 @@
         "youtubeLink": "https://youtu.be/3nQzoLtClUY"
    
   },
+
+
 {
-        "id": 43,
+        "id": 44,
         "projectName": "Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021",
         "languages": "React JS",
         "platform":"YouTube",
         "duration": "8:43:33",
         "youtubeLink": "https://www.youtube.com/watch?v=RDV3Z1KCBvo"
- 
-
   },
 {
-        "id": 44,
+        "id": 45,
+        "projectName": "Rock Paper Scissor",
+        "languages": "C++",
+        "platform":"YouTube",
+        "duration": "39:08",
+        "youtubeLink": "https://www.youtube.com/watch?v=RKpuLwmZcTE"
+  },
+
+{
+        "id": 46,
+        "projectName": "Bank Management System with cpp",
+        "languages": "C++",
+        "platform":"Youtube",
+        "duration": "36:30",
+        "youtubeLink": "https://www.youtube.com/watch?v=6OSVutwm_Uk"
+  },
+{
+        "id": 47,
+        "projectName": "Learn how to build a professional website",
+        "languages": "HTML5, CSS3, Javascript",
+        "platform": "Youtube",
+        "duration": "1:38:51",
+        "youtubeLink": "https://youtu.be/5bMdjkfvONE"
+ },
+
+        "id": 48,
+        "projectName": "Build a Notes Taking Website",
+        "languages": "JavaScript",
+        "platform":"YouTube",
+        "duration": "57:57",
+        "youtubeLink": "https://youtu.be/kwgNsNhYcHo"
+  },
+{
+        "id": 49,
         "projectName": "Homeautomation ",
         "languages": "Proteus software/ ardunio Python ",
         "platform": "YouTube",
         "duration": "14:14",
         "youtubeLink": "https://www.youtube.com/watch?v=OKgTV9uXrLg"
-    },
+    }
 
 ]
