@@ -467,4 +467,12 @@
         "duration": "3:22:44",
         "youtubeLink": "https://youtu.be/XtMThy8QKqU"
     }
+{
+        "id": 53,
+        "projectName": "Atm Machine",
+        "languages": "Python",
+        "platform": "YouTube",
+        "duration": "14:41",
+        "youtubeLink": "//youtu.be/GZueRV4BIV4"
+    }
 ]
