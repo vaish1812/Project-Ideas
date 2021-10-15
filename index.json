@@ -466,7 +466,7 @@
         "platform": "YouTube",
         "duration": "3:22:44",
         "youtubeLink": "https://youtu.be/XtMThy8QKqU"
-    }
+    },
 {
         "id": 53,
         "projectName": "Atm Machine",
@@ -474,7 +474,16 @@
         "platform": "YouTube",
         "duration": "14:41",
         "youtubeLink": "//youtu.be/GZueRV4BIV4"
-    }
+    },
+
+]
+        "id": 54,
+        "projectName": "Vaccine Management System",
+        "languages": "C++",
+        "platform": "YouTube"
+        "duration": "13:48",
+        "youtubeLink": "https://youtu.be/Ve5wrjvDspw"
+},
 
  {      "id": 54,
         "projectName": "Iron man Jarvis Al Desktop",
@@ -483,4 +492,5 @@
         "duration": "58:48",
         "youtubeLink": "https://youtu.be/Lp9Ftuq2sVI"
     }
-]]
+]
+
