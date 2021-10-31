@@ -238,7 +238,7 @@
         "duration": "10.47",
         "youtubeLink": "https://youtu.be/vJ5kQleNFZE"
     },
-  {
+    {
         "id": 27,
         "projectName": "Calculator",
         "languages": "JavaScript",
@@ -254,7 +254,7 @@
         "duration": "03:10:31",
         "youtubeLink": "https://youtu.be/BAtYQZxpmhs"
     },
-       {
+    {
         "id": 29,
         "projectName": "jarvice Artificial Intelligence system",
         "languages": "python",
@@ -305,7 +305,7 @@
         "platform":"YouTube",
         "duration": "36:30",
         "youtubeLink": "https://youtu.be/6OSVutwm_Uk"
-    }
+    },
 
     
     {
@@ -325,7 +325,7 @@
         "duration": "03:00:05",
         "youtubeLink": "https://www.youtube.com/watch?v=SKRY0-90dfw&feature=youtu.be"
     },
-{
+    {
         "id": 36,
         "projectName": "Music Player app",
         "languages": "Core Java and oops",
@@ -333,9 +333,7 @@
         "duration": "49:32",
         "youtubeLink": "https://youtu.be/49eeLxc6xE4"
     
-    
-    
-},
+    },
     {
         "id": 37,
         "projectName": "Payroll System",
@@ -475,8 +473,7 @@
         "duration": "14:41",
         "youtubeLink": "//youtu.be/GZueRV4BIV4"
     },
-
-]
+{
         "id": 54,
         "projectName": "Vaccine Management System",
         "languages": "C++",
