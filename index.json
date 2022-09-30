@@ -504,6 +504,13 @@
         "platform":"Youtube",
         "duration": "03:13:47",
         "youtubeLink": "https://www.youtube.com/watch?v=Wn_Kb3MR_cU"
+},
+{      "id": 57,
+        "projectName": "Employee Management System",
+        "languages": "C++",
+        "platform":"Youtube",
+        "duration": "01:12:51",
+        "youtubeLink": "https://www.youtube.com/watch?v=fvehn6XRRYM"
 }
 
 ]
