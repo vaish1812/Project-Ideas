@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "projectName": "Snake Game",
-        "languages": "JavaScript",
-        "platform":"YouTube",
+        "projectName": "cricketGame",
+        "languages": "python",
+        "platform":"instagram ",
         "duration": "1:32:19",
         "youtubeLink": "https://youtu.be/2ZDnw6ifdSI"
     },
@@ -12,7 +12,7 @@
         "id": 2,
         "projectName": "Chatting App",
         "languages": "Java ,Socket Programming ,AJAX ,HTML ,CSS ,JavaScript",
-        "platform": "YouTube",
+        "platform": "Linked in ",
         "duration": "1:30:44",
         "youtubeLink": "https://www.youtube.com/watch?v=3QNBVG2yqKA"
     },
